@@ -1,0 +1,4 @@
+﻿  Bouns Game.cpp
+D:\c++\Bouns Game\Bouns Game.cpp(77,1): warning C4715: 'GetTheOperator': not all control paths return a value
+D:\c++\Bouns Game\Bouns Game.cpp(55,1): warning C4715: 'GetTheLevel': not all control paths return a value
+  Bouns Game.vcxproj -> D:\c++\Bouns Game\x64\Debug\Bouns Game.exe
